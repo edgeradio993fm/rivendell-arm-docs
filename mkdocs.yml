@@ -1,4 +1,5 @@
 site_name: Rivendell Radio Automation on ARM Devices
+site_url: https://edgeradio993fm.github.io/rivendell-arm-docs/
 theme:
   name: material
   features:
