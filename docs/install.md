@@ -1,3 +1,3 @@
-# Installing
+# Install
 
 ## Installing Rivendell
